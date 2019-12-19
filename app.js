@@ -14,4 +14,3 @@ simpleGit().add(fileIndexPath).commit('first commit').push(['-u','origin','maste
 
 
 console.log('Hello world, just once');
-console.log('Hello world, just twice');
