@@ -5,8 +5,13 @@ const fileIndexPath = path.join(__dirname + '/app.js')
 
 //simpleGit().add([fileIndexPath], (err, data) => console.log(err))
 
-simpleGit().add(fileIndexPath).commit('first commit').push(['-u','origin','master'])
+simpleGit().add(fileIndexPath).commit('first commit').push(['-u','origin','master'], (err,data) => {
+    console.log(err);
+    console.log(data);
+    console.log('done')
+})
 
 
 
 console.log('Hello world, just once');
+console.log('Hello world, just twice');
