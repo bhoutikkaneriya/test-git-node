@@ -9,5 +9,4 @@ simpleGit().init().add(fileIndexPath).commit('first commit').addRemote('origin',
 
 
 
-console.log('hello world')
-console.log('Hello world again')
+console.log('Hello world, just once');
