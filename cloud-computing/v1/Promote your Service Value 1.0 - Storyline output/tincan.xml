@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://promote-your-service-value_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Promote your Service Value 1.0</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://promote-your-service-value_course_id/6SqdOsRKBq2" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">Promote your Service Value 1.0</name>
+			<description lang="und">Promote your Service Value 1.0</description>
+		</activity>
+		<activity id="http://promote-your-service-value_course_id/5yaswjj5Vwk" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Blank Slide</name>
+			<description lang="und">Blank Slide</description>
+		</activity>
+		<activity id="http://promote-your-service-value_course_id/6cY9SShATTa" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Video Blank Slide</name>
+			<description lang="und">Video Blank Slide</description>
+		</activity>
+		<activity id="http://promote-your-service-value_course_id/5w3bG09aTgY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Blank Slide</name>
+			<description lang="und">Blank Slide</description>
+		</activity>
+		<activity id="http://promote-your-service-value_course_id/5yXDmI5snE8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Video Blank Slide</name>
+			<description lang="und">Video Blank Slide</description>
+		</activity>
+		<activity id="http://promote-your-service-value_course_id/6PqLcHCDa5b" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Blank Slide</name>
+			<description lang="und">Blank Slide</description>
+		</activity>
+		<activity id="http://promote-your-service-value_course_id/6rYzuUj52rk" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Video Blank Slide</name>
+			<description lang="und">Video Blank Slide</description>
+		</activity>
+		<activity id="http://promote-your-service-value_course_id/6Eq0LiKvgmI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Blank Slide</name>
+			<description lang="und">Blank Slide</description>
+		</activity>
+		<activity id="http://promote-your-service-value_course_id/5W8ChqqKcSH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Video Blank Slide</name>
+			<description lang="und">Video Blank Slide</description>
+		</activity>
+		<activity id="http://promote-your-service-value_course_id/6DUvXfMCRaf" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Blank Slide</name>
+			<description lang="und">Blank Slide</description>
+		</activity>
+		<activity id="http://promote-your-service-value_course_id/69h26BmWSaG" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Video Blank Slide</name>
+			<description lang="und">Video Blank Slide</description>
+		</activity>
+		<activity id="http://promote-your-service-value_course_id/5dc37SW6GQN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Begin Screen</name>
+			<description lang="und">Begin Screen</description>
+		</activity>
+		<activity id="http://promote-your-service-value_course_id/6iMg7P6kVlG" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">q1</name>
+			<description lang="und">q1</description>
+		</activity>
+		<activity id="http://promote-your-service-value_course_id/6iMg7P6kVlG/5bMGNBIk3bz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Name a great way to figure out what your value proposition should be.</name>
+			<description lang="und">Name a great way to figure out what your value proposition should be.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6bPhQOS3Pa8</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6POSn9Amxss</id>
+					<description lang="und">	Google it</description>
+				</component>
+				<component>
+					<id>choice_6bPhQOS3Pa8</id>
+					<description lang="und">	Ask your customers for feedback</description>
+				</component>
+				<component>
+					<id>choice_6RG42NgDukm</id>
+					<description lang="und">	Research your competitors, try and better 	theirs</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://promote-your-service-value_course_id/6Oqgn5es3Vh" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">q1</name>
+			<description lang="und">q1</description>
+		</activity>
+		<activity id="http://promote-your-service-value_course_id/6Oqgn5es3Vh/6ategZeRzXs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">What is a USP?</name>
+			<description lang="und">What is a USP?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5XWDXwKSLVf</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5cPoRSfCoAu</id>
+					<description lang="und">	An unusual sales profession </description>
+				</component>
+				<component>
+					<id>choice_5XWDXwKSLVf</id>
+					<description lang="und">	A unique selling point</description>
+				</component>
+				<component>
+					<id>choice_69wZO46mH1J</id>
+					<description lang="und">	An unexpected sales proposition</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://promote-your-service-value_course_id/5nqpiL9Rs7h" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">q1</name>
+			<description lang="und">q1</description>
+		</activity>
+		<activity id="http://promote-your-service-value_course_id/5nqpiL9Rs7h/5lEVlyKZ6sY" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">What is a company’s value proposition?</name>
+			<description lang="und">What is a company’s value proposition?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6qAVp4ncnpA</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6qAVp4ncnpA</id>
+					<description lang="und">	Something that sets you apart from others, 	and a reason for customers to come to you.</description>
+				</component>
+				<component>
+					<id>choice_6eF9MSbJCgl</id>
+					<description lang="und">	The ability to be successful within the first 	year business.</description>
+				</component>
+				<component>
+					<id>choice_6CQxjvrEIke</id>
+					<description lang="und">	The negative feedback you receive from 	customers.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://promote-your-service-value_course_id/61R8WdWTnxr" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Results Slide</name>
+			<description lang="und">Results Slide</description>
+		</activity>
+	</activities>
+</tincan>

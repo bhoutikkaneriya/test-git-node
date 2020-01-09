@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://cloud-computing-webroot_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Cloud Computing (Webroot)</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/6SqdOsRKBq2" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">Cloud Computing (Webroot)</name>
+			<description lang="und">Cloud Computing (Webroot)</description>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/5yaswjj5Vwk" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Blank Slide</name>
+			<description lang="und">Blank Slide</description>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/6cY9SShATTa" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Video Blank Slide</name>
+			<description lang="und">Video Blank Slide</description>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/5dc37SW6GQN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Begin Screen</name>
+			<description lang="und">Begin Screen</description>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/6iMg7P6kVlG" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">q1</name>
+			<description lang="und">q1</description>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/6iMg7P6kVlG/5bMGNBIk3bz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">	What is the name of the Cloud deployment method that connects public and private operations?</name>
+			<description lang="und">	What is the name of the Cloud deployment method that connects public and private operations?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6POSn9Amxss</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6POSn9Amxss</id>
+					<description lang="und">	Hybrid</description>
+				</component>
+				<component>
+					<id>choice_6bPhQOS3Pa8</id>
+					<description lang="und">	Joint</description>
+				</component>
+				<component>
+					<id>choice_5X114BTRt4f</id>
+					<description lang="und">	Collaborative</description>
+				</component>
+				<component>
+					<id>choice_6o02A1vnfv6</id>
+					<description lang="und">	WonderTwin</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/6KQPZgHvT6E" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">q1</name>
+			<description lang="und">q1</description>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/6KQPZgHvT6E/6L6jfI1Ufxf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">What’s it called when you have a private Cloud operation designed for shared use, like in partnerships, research groups or governments?</name>
+			<description lang="und">What’s it called when you have a private Cloud operation designed for shared use, like in partnerships, research groups or governments?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6diyiyw2QXA</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6MTUVJgpxzT</id>
+					<description lang="und">	Hybrid Cloud Model</description>
+				</component>
+				<component>
+					<id>choice_6diyiyw2QXA</id>
+					<description lang="und">	Community Cloud Model</description>
+				</component>
+				<component>
+					<id>choice_5ZuzV567vn3</id>
+					<description lang="und">	Collaborative Cloud Model</description>
+				</component>
+				<component>
+					<id>choice_6gRoDtbjUvE</id>
+					<description lang="und">	Team Cloud Model</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/6PJSBE6H0DC" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">q1</name>
+			<description lang="und">q1</description>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/6PJSBE6H0DC/5sY0G3SswU1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">What are the three types of Cloud service - and, for an imaginary bonus point before you click, what do they each stand for?</name>
+			<description lang="und">What are the three types of Cloud service - and, for an imaginary bonus point before you click, what do they each stand for?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6g09D6nqJh6</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6g09D6nqJh6</id>
+					<description lang="und">	IaaS, PaaS, and SaaS</description>
+				</component>
+				<component>
+					<id>choice_6UYDPE4BSMZ</id>
+					<description lang="und">	EaaS, RaaS, and TaaS</description>
+				</component>
+				<component>
+					<id>choice_6XUnQQUMi7G</id>
+					<description lang="und">	AaaS, CaaS, and WaaS</description>
+				</component>
+				<component>
+					<id>choice_6aeXOooSrvh</id>
+					<description lang="und">	YaaS, QaaS, and FaaS</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/5viTTs64hd9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">q1</name>
+			<description lang="und">q1</description>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/5viTTs64hd9/6FQHFQj2O0Y" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">What is the Cloud, again?</name>
+			<description lang="und">What is the Cloud, again?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5X26QWXAHwL</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_65Prsc6KLsl</id>
+					<description lang="und">	Anti-virus software to protect your PC</description>
+				</component>
+				<component>
+					<id>choice_5X26QWXAHwL</id>
+					<description lang="und">	A network used for data storage that allows 	more flexibility, scalability and cost-saving 	than some other physical computing 	methodologies</description>
+				</component>
+				<component>
+					<id>choice_6jpXD82VdfU</id>
+					<description lang="und">	An efficient method of cyber security</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/6Fg78EZYyRL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">q1</name>
+			<description lang="und">q1</description>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/6Fg78EZYyRL/6MrFTtoMsVp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Before implementing Cloud solutions, what are two key things to consider?</name>
+			<description lang="und">Before implementing Cloud solutions, what are two key things to consider?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5w8AsefUjts</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5iQLXvdFLbm</id>
+					<description lang="und">	Branding and Marketing</description>
+				</component>
+				<component>
+					<id>choice_6miNzlGYx9c</id>
+					<description lang="und">	Social Media and Advertising</description>
+				</component>
+				<component>
+					<id>choice_5wM0cqq7yoC</id>
+					<description lang="und">	New PCs and Laptops</description>
+				</component>
+				<component>
+					<id>choice_5w8AsefUjts</id>
+					<description lang="und">	Security measures and access to IT 	Professionals</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/5sZ04rqyImX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Blank Slide</name>
+			<description lang="und">Blank Slide</description>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/6M6bDwtMaDm" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Video Blank Slide</name>
+			<description lang="und">Video Blank Slide</description>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/5sOwkWE5UqQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Blank Slide</name>
+			<description lang="und">Blank Slide</description>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/5evOE4vVo32" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Video Blank Slide</name>
+			<description lang="und">Video Blank Slide</description>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/5tXfK70Z3P7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Blank Slide</name>
+			<description lang="und">Blank Slide</description>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/6g4tGAV2Gup" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Blank Slide</name>
+			<description lang="und">Blank Slide</description>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/6Q0adjBy7hj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Blank Slide</name>
+			<description lang="und">Blank Slide</description>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/61R8WdWTnxr" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Results Slide</name>
+			<description lang="und">Results Slide</description>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/6NOlns2LvGz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Blank Slide</name>
+			<description lang="und">Blank Slide</description>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/5dXdQDOkDgM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Video Blank Slide</name>
+			<description lang="und">Video Blank Slide</description>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/6OVagYACO0E" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Blank Slide</name>
+			<description lang="und">Blank Slide</description>
+		</activity>
+		<activity id="http://cloud-computing-webroot_course_id/5iMh1NRMcAF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Video Blank Slide</name>
+			<description lang="und">Video Blank Slide</description>
+		</activity>
+	</activities>
+</tincan>
